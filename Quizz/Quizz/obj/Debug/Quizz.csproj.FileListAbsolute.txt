@@ -1,0 +1,25 @@
+c:\users\desenvolvimento\documents\visual studio 2013\Projects\Quizz\Quizz\bin\Debug\Quizz.exe.config
+c:\users\desenvolvimento\documents\visual studio 2013\Projects\Quizz\Quizz\bin\Debug\Quizz.exe
+c:\users\desenvolvimento\documents\visual studio 2013\Projects\Quizz\Quizz\bin\Debug\Quizz.pdb
+c:\users\desenvolvimento\documents\visual studio 2013\Projects\Quizz\Quizz\obj\Debug\Quizz.csprojResolveAssemblyReference.cache
+c:\users\desenvolvimento\documents\visual studio 2013\Projects\Quizz\Quizz\obj\Debug\Quizz.Form1.resources
+c:\users\desenvolvimento\documents\visual studio 2013\Projects\Quizz\Quizz\obj\Debug\Quizz.Properties.Resources.resources
+c:\users\desenvolvimento\documents\visual studio 2013\Projects\Quizz\Quizz\obj\Debug\Quizz.csproj.GenerateResource.Cache
+c:\users\desenvolvimento\documents\visual studio 2013\Projects\Quizz\Quizz\obj\Debug\Quizz.exe
+c:\users\desenvolvimento\documents\visual studio 2013\Projects\Quizz\Quizz\obj\Debug\Quizz.pdb
+T:\Quizz\Quizz\Quizz\bin\Debug\Quizz.exe.config
+T:\Quizz\Quizz\Quizz\obj\Debug\Quizz.exe
+T:\Quizz\Quizz\Quizz\obj\Debug\Quizz.pdb
+T:\Quizz\Quizz\Quizz\bin\Debug\Quizz.exe
+T:\Quizz\Quizz\Quizz\bin\Debug\Quizz.pdb
+T:\Quizz\Quizz\Quizz\bin\Debug\mscorlib.dll
+T:\Quizz\Quizz\Quizz\bin\Debug\pt-BR\mscorlib.resources.dll
+T:\Quizz\Quizz\Quizz\bin\Debug\normidna.nlp
+T:\Quizz\Quizz\Quizz\bin\Debug\normnfc.nlp
+T:\Quizz\Quizz\Quizz\bin\Debug\normnfd.nlp
+T:\Quizz\Quizz\Quizz\bin\Debug\normnfkc.nlp
+T:\Quizz\Quizz\Quizz\bin\Debug\normnfkd.nlp
+T:\Quizz\Quizz\Quizz\obj\Debug\Quizz.csprojResolveAssemblyReference.cache
+T:\Quizz\Quizz\Quizz\obj\Debug\Quizz.Form1.resources
+T:\Quizz\Quizz\Quizz\obj\Debug\Quizz.Properties.Resources.resources
+T:\Quizz\Quizz\Quizz\obj\Debug\Quizz.csproj.GenerateResource.Cache
